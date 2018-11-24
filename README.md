@@ -7,6 +7,8 @@
 |-|-|-|-|-|
 |`Imbalanced Data`|Car Booking|`Random Forest Classifier`|`Sklearn`, `Pandas`, `Seaborn`|https://github.com/erdiolmezogullari/ml-imbalanced-car-booking-data|
 
+If you want to see the further ML projects, you may visit my main repo: https://github.com/erdiolmezogullari/ml-projects
+
 We built a machine learning model that answers the question, -what is the customer preference- on car booking dataset.
 
 We explored the dataset by using `Seaborn`, and transformed, derived new features necessary.
